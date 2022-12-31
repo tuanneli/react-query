@@ -1,0 +1,139 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Flash",
+      "alterAgo": "Barey Allen",
+      "id": 4
+    },
+    {
+      "name": "Super Hero",
+      "alterAgo": "Name",
+      "id": 5
+    },
+    {
+      "name": "Cat woman",
+      "alterAgo": "Sellena Kat",
+      "id": 6
+    },
+    {
+      "name": "Hero",
+      "alterAgo": "Name",
+      "id": 7
+    },
+    {
+      "name": "New hero",
+      "alterAgo": "New name",
+      "id": 8
+    },
+    {
+      "name": "Aquaman",
+      "alterAgo": "Arthur Cody",
+      "id": 9
+    },
+    {
+      "name": "fds",
+      "alterAgo": "fdsf",
+      "id": 10
+    },
+    {
+      "name": "fdsf",
+      "alterAgo": "fsdfds",
+      "id": 11
+    },
+    {
+      "name": "fdsf",
+      "alterAgo": "fsdfds",
+      "id": 12
+    },
+    {
+      "name": "fffff",
+      "alterAgo": "fffff",
+      "id": 13
+    },
+    {
+      "name": "mmm",
+      "alterAgo": "mmmm",
+      "id": 14
+    },
+    {
+      "name": "fdsfds",
+      "alterAgo": "fds",
+      "id": 15
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Friend One"
+    },
+    {
+      "id": 2,
+      "name": "Friend Two"
+    },
+    {
+      "id": 3,
+      "name": "Friend Three"
+    }
+  ],
+  "users": [
+    {
+      "id": "email@gmail.com",
+      "channelId": "code"
+    }
+  ],
+  "channels": [
+    {
+      "id": "code",
+      "courses": "react, vue, angular"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
